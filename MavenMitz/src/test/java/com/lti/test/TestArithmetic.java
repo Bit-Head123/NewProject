@@ -18,7 +18,7 @@ public class TestArithmetic {
 		
 		@Test
 		public void testSum() {
-			assertEquals(10,arth.sum(4, 6));
+			assertEquals(100,arth.sum(4, 6));
 		}
 		
 		@Test
