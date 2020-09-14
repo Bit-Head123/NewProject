@@ -8,11 +8,20 @@ import { Component } from '@angular/core';
       <h1>
         Welcome to {{title}}!
       </h1>
+<<<<<<< HEAD
       <h1>Team 4 Bit-Head </h2>
+=======
+<<<<<<< HEAD
+      <h2> Change by Abhinav. </h2>
+=======
+      <h1>Team 4 Bit-Head</h2>
+>>>>>>> dfd0ba891ff9e63649f7b105c108bcd3c9c8c7fa
+>>>>>>> 1c6f028ee5e5ccbd5d8b68d4ec3de13bcdf3ed84
       <h2>Github Jenkins integration attempt bby Abhinav</h2>
       <h2>Github Jenkins integration attempted by Mitshu </h2>
       <h2> Github Jenkins integration attempted by Arnab</h2>
       <h2>Tushar's commit in hello app</h2>
+      
       
       </div>
     
