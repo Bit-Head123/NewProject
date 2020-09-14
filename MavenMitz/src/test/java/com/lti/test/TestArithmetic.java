@@ -1,3 +1,4 @@
+
 package com.lti.test;
 
 import static org.junit.Assert.assertEquals;
@@ -25,6 +26,6 @@ public class TestArithmetic {
 		public void testSub() {
 			assertEquals(10, arth.sub(90, 100));
 		}
-	
-	
 }
+	
+	
