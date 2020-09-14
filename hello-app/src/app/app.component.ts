@@ -11,6 +11,7 @@ import { Component } from '@angular/core';
       <h2>Github Jenkins integration attempt bby Abhinav</h2>
       <h2>Github Jenkins integration attempted by Mitshu </h2>
       <h2> Github Jenkins integreation attemted by Arnnab</h2>
+      <h2>Tushar's commit in hello app</h2>
       </div>
     
   `,
