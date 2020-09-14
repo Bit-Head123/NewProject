@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
       <h1>
         Welcome to {{title}}!
       </h1>
+      <h1>Team 4</h2>
       <h2>Github Jenkins integration attempt bby Abhinav</h2>
       <h2>Github Jenkins integration attempted by Mitshu </h2>
       <h2> Github Jenkins integreation attemted by Arnnab</h2>
