@@ -8,6 +8,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+<<<<<<< HEAD
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+=======
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
@@ -39,6 +44,7 @@
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
+>>>>>>> bd0544f3d761ff96d4044cd912c0a8547ae70125
 			<attribute name="test" value="true"/>
 		</attributes>
 	</classpathentry>

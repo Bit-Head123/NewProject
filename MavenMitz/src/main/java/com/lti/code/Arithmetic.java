@@ -29,6 +29,12 @@ public class Arithmetic {
 		return b-a;
 	}
 	
+<<<<<<< HEAD
+	public int divide(int a,int b)
+	{
+		return a/b;
+	}
+=======
 	public int mul(int a,int b) {
 		return a*b;
 	}
@@ -54,4 +60,5 @@ public class Arithmetic {
 		return a % b;
 	}
 >>>>>>> aff99d372221a79034904dee3d1726abb4669b13
+>>>>>>> bd0544f3d761ff96d4044cd912c0a8547ae70125
 }
