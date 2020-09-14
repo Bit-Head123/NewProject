@@ -13,4 +13,8 @@ public class Arithmetic {
 	public int mul(int a,int b) {
 		return a*b;
 	}
+	
+	public int rem(int a, int b) {
+		return a % b;
+	}
 }

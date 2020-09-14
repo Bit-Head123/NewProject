@@ -30,6 +30,12 @@ public class TestArithmetic {
 		public void testMul() {
 			assertEquals(50, arth.mul(5, 10));
 		}
+		
+		@Test
+		public void testRem() {
+			assertEquals(6, arth.mul(50, 8));
+		}
+		
 	
 	
 }
