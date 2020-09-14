@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
         Welcome to {{title}}!
       </h1>
       <h2>Github Jenkins integration attempt bby Abhinav</h2>
-      <h2>Github Jenkins integration attempt by Mitshu</h2>
+      <h2>Github Jenkins integration attempted by Mitshu </h2>
       </div>
     
   `,
