@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
       </h1>
       <h2> Change by Abhinav. </h2>
       <h2>Github Jenkins integration attempt bby Abhinav</h2>
-      <h2>attempt by Tushar</h2>
+      <h2>Github Jenkins integration attempted by Mitshu </h2>
       </div>
     
   `,
@@ -23,4 +23,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hello-app';
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> aff99d372221a79034904dee3d1726abb4669b13
