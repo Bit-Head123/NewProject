@@ -23,7 +23,7 @@ public class TestArithmetic {
 		
 		@Test
 		public void testSub() {
-			assertEquals(500, arth.sub(90, 100));
+			assertEquals(50044, arth.sub(90, 100));
 		}
 	
 	
