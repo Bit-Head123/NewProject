@@ -1,0 +1,40 @@
+<<<<<<< HEAD
+/* To learn more about this file see: https://angular.io/config/tsconfig. */
+=======
+>>>>>>> aff99d372221a79034904dee3d1726abb4669b13
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./dist/out-tsc",
+    "sourceMap": true,
+    "declaration": false,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+<<<<<<< HEAD
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "es2020",
+=======
+    "module": "esnext",
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "target": "es2015",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+>>>>>>> aff99d372221a79034904dee3d1726abb4669b13
+    "lib": [
+      "es2018",
+      "dom"
+    ]
+<<<<<<< HEAD
+=======
+  },
+  "angularCompilerOptions": {
+    "fullTemplateTypeCheck": true,
+    "strictInjectionParameters": true
+>>>>>>> aff99d372221a79034904dee3d1726abb4669b13
+  }
+}
