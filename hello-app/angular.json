@@ -5,6 +5,7 @@
   "projects": {
     "hello-app": {
       "projectType": "application",
+<<<<<<< HEAD
       "schematics": {
         "@schematics/angular:component": {
           "inlineTemplate": true,
@@ -33,6 +34,9 @@
           "skipTests": true
         }
       },
+=======
+      "schematics": {},
+>>>>>>> aff99d372221a79034904dee3d1726abb4669b13
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -45,7 +49,11 @@
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
+<<<<<<< HEAD
             "aot": true,
+=======
+            "aot": false,
+>>>>>>> aff99d372221a79034904dee3d1726abb4669b13
             "assets": [
               "src/favicon.ico",
               "src/assets"
@@ -68,6 +76,10 @@
               "sourceMap": false,
               "extractCss": true,
               "namedChunks": false,
+<<<<<<< HEAD
+=======
+              "aot": true,
+>>>>>>> aff99d372221a79034904dee3d1726abb4669b13
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
@@ -106,4 +118,8 @@
       }
     }},
   "defaultProject": "hello-app"
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> aff99d372221a79034904dee3d1726abb4669b13

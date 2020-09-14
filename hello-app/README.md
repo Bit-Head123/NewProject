@@ -1,6 +1,10 @@
 # HelloApp
 
+<<<<<<< HEAD
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
+=======
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
+>>>>>>> aff99d372221a79034904dee3d1726abb4669b13
 
 ## Development server
 
