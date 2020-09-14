@@ -25,6 +25,11 @@ public class TestArithmetic {
 		public void testSub() {
 			assertEquals(50, arth.sub(90, 100));
 		}
+		
+		@Test
+		public void testMul() {
+			assertEquals(50, arth.mul(5, 10));
+		}
 	
 	
 }
