@@ -1,1 +1,0 @@
-"Hello Maven and Git not forced "
